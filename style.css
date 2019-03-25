@@ -71,16 +71,3 @@ p {
     margin: 3em;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
-
-ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-li {
-    margin: 10em 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
