@@ -1,0 +1,85 @@
+img {
+    display: block;
+    float: left
+}
+
+.info {
+    margin-left: 95px;
+    margin-top: 3px;
+    line-height: 1.4;
+    color: #000;
+    font-size: 15px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.name {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #CB5F25;
+}
+
+.title {
+    display: block;
+    color: #444;
+    text-transform: uppercase;
+}
+
+.contact {
+    margin-bottom: 6px;
+}
+
+.contact *, .contact a, .contact span {
+    color: #333;
+}
+
+.contact strong {
+    display: inline-block;
+    width: 1.3em;
+    color: #222;
+}
+
+a {
+    text-decoration: underline #bbb;
+    display: inline-block;
+}
+
+a:hover {
+    color: #CB5F25;
+    text-decoration: underline #CB5F25;
+}
+
+a.website {
+    color: #CB5F25;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 8px;
+    text-decoration: none;
+}
+
+a.website:hover {
+    text-decoration: underline #CB5F25;
+}
+
+p {
+    margin: 0 0 1em 0;
+}
+
+:root {
+    margin: 3em;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    margin: 10em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
