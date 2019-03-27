@@ -1,6 +1,7 @@
 img {
     display: block;
-    float: left
+    float: left;
+    margin-top: 2px;
 }
 
 .info {
@@ -25,6 +26,7 @@ img {
     display: block;
     color: #444;
     text-transform: uppercase;
+    letter-spacing: .02em;
 }
 
 .contact {
